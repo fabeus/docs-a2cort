@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-yge2l5.indocuan-pro.site/sitemap.xml
